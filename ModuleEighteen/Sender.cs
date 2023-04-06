@@ -1,8 +1,4 @@
-﻿
-using YoutubeExplode;
-using YoutubeExplode.Converter;
-
-namespace ModuleEighteen
+﻿namespace ModuleEighteen
 {
     class Sender
     {
